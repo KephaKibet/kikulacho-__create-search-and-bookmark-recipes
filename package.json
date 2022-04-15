@@ -1,0 +1,14 @@
+{
+  "name": "kikulacho",
+  "version": "1.0.0",
+  "description": "recipe create, search & bookmark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kepha Kibet",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.4.1"
+  }
+}
